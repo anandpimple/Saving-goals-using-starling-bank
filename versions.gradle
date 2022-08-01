@@ -1,0 +1,4 @@
+ext.versions [
+    springboot = 'xyz',
+    junit.jupiter = '5.8.1'
+]
